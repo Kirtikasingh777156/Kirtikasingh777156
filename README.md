@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtika08singh&label=Profile%20views&color=0e75b6&style=flat" alt="kirtika08singh" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kirtika08singh?tab=repositories](https://github.com/Kirtika08singh?tab=repositories)
+- 👨‍💻 All of my projects are available at [(https://github.com/Kirtikasingh777156)]
 
 - 💬 Ask me about **Machine Learning, Python, MySQL**
 
